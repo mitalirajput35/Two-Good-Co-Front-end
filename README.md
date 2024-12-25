@@ -38,6 +38,6 @@ Feel free to submit issues and enhancement requests.
 
 - Email: mitalirajput35@gmail.com
 - GitHub: [Two Good Co](https://github.com/mitalirajput35/Two_Good_Co_-Front-End-)
-- LinkedIn: [Gurmita Sahare](https://www.linkedin.com/in/mitalirajput35/)
+- LinkedIn: [Mitali Rajput](https://www.linkedin.com/in/mitalirajput35/)
 
 ---
