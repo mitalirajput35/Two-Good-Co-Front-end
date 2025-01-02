@@ -37,7 +37,7 @@ Feel free to submit issues and enhancement requests.
 ## Contact
 
 - Email: mitalirajput35@gmail.com
-- GitHub: [Two Good Co](https://github.com/mitalirajput35/Two_Good_Co_-Front-End-)
+- GitHub: [Two Good Co](https://github.com/mitalirajput35/Two-Good-Co-Front-end/tree/main)
 - LinkedIn: [Mitali Rajput](https://www.linkedin.com/in/mitalirajput35/)
 
 ---
